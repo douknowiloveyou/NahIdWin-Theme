@@ -1,0 +1,38 @@
+{
+  "name": "nahidwin",
+  "displayName": "Nah Id Win",
+  "description": "Are you the prettiest because you are Gojo? Or are you Gojo because you are the prettiest?",
+  "version": "0.0.1",
+  "publisher": "douknowthatiloveyou",
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/douknowiloveyou/NahIdWin-Theme"
+  },
+  "keywords": [
+    "gojo",
+    "satoru",
+    "JJK",
+    "theme",
+    "dark theme",
+    "nah",
+    "id",
+    "win",
+    "Nah Id Win"
+  ],
+  "engines": {
+    "vscode": "^1.102.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "NahIdWin",
+        "uiTheme": "vs-dark",
+        "path": "./themes/NahIdWin-color-theme.json"
+      }
+    ]
+  }
+}
