@@ -5,8 +5,8 @@
   <a href="https://discord.gg/vT33DaC3XB"><img src="https://img.shields.io/discord/1390345088021954620?style=for-the-badge&color=c6a0f6&labelColor=363a4f&logo=discord&logoColor=cad3f5"></a>
 </p>
 
-<p style="background-color:#0F0F0F; color:#B1B6B9; font-style:italic; text-align:center; padding:1em; border-radius:8px;">
-  You think the best VS Code theme is subjective because you haven’t seen NahIdWin
+<p align="center">
+  <i>You think the best VS Code theme is subjective because you haven’t seen NahIdWin</i>
 </p>
 
 <p align="center">
