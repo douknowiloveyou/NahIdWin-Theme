@@ -2,7 +2,7 @@
   "name": "nahidwin",
   "displayName": "Nah Id Win",
   "description": "Are you the prettiest because you are Gojo? Or are you Gojo because you are the prettiest?",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "publisher": "douknowthatiloveyou",
   "icon": "icon.png",
   "repository": {
@@ -10,6 +10,8 @@
     "url": "https://github.com/douknowiloveyou/NahIdWin-Theme"
   },
   "keywords": [
+    "anime",
+    "weeb",
     "gojo",
     "satoru",
     "JJK",
